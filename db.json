@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "categorie":[
+    {
+      "nom_ctgr":"ABC",
+      "description_ctgr":"souilhimohamed"
+    },
+    {
+      "nom_ctgr":"ABCE",
+      "description_ctgr":"souilhimohammed"
+    }
+
+
+
+  ],
+  "inscription": [
+    {
+      "nom_pharmacie":"Souilhi",
+      "mot_de_passe":"Medsoui"
+    }
+  ],
+  "medicament": [
+    {
+      "nom": "ABC",
+      "description": "json-server",
+      "etage": "B-6",
+      "quantity":20,
+      "categorie":"asc",
+      "prix":200
+    },
+    {
+      "nom": "ABCE",
+      "description": "json-server",
+      "etage": "A-1",
+      "quantity":20,
+      "categorie":"asc",
+      "prix":200
+    },
+    {
+      "nom": "ABCEF",
+      "description": "json-server",
+      "etage": "A-4",
+      "quantity":20,
+      "categorie":"asc",
+      "prix":200
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+  
+}
